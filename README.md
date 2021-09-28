@@ -1,5 +1,5 @@
 # Named-Entity-Relation-Extraction
-This project extracts different syntactic, lexical and contextual features of pairs of entities, which are then used to train models to identify the semantic relation, as well as the direction of the relation, within a pair of entities in a sentence. Specifically, the entity relations that this project is designed to identify are:
+This project extracts different syntactic, lexical and contextual features of pairs of entities in sentences, which are then used to train models to identify the semantic relation, as well as the direction of the relation, within a pair of entities in a sentence. Specifically, the entity relations that this project is designed to identify are:
 
 1. Cause-Effect
 2. Instrument-Agency
